@@ -11,7 +11,7 @@ collections = "1.5.0"
 #noinspection NewerVersionAvailable,GradleDependency,Aligned16KB - 2.5.3 cause crashes
 conscrypt = "2.5.2"
 constraintlayout = "2.2.1"
-coreKtx = "1.17.0"
+coreKtx = "1.19.0"
 core-exts = "1.0.2"
 coroutines = "1.10.2"
 dagger = "2.57.2"
